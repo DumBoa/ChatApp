@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Laptop\source\repos\UngDungTroTruyen\Client\obj\Debug\net8.0\ref\Client.dll

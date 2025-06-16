@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B546F-7A66-43B6-B9E1-FC62C545B937}|ServerTCP\\ServerTCP.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\servertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B546F-7A66-43B6-B9E1-FC62C545B937}|ServerTCP\\ServerTCP.csproj|solutionrelative:servertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF000F8-66AC-4521-B5F8-7CB364C12786}|Client\\Client.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\client\\clienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF000F8-66AC-4521-B5F8-7CB364C12786}|Client\\Client.csproj|solutionrelative:client\\clienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\ui\\form\\hubchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|solutionrelative:ui\\form\\hubchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\ui\\form\\chatallroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|solutionrelative:ui\\form\\chatallroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\ui\\form\\createzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|solutionrelative:ui\\form\\createzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\ui\\form\\hubchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|solutionrelative:ui\\form\\hubchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\ui\\usercontrol\\mebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|solutionrelative:ui\\usercontrol\\mebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|c:\\users\\laptop\\source\\repos\\ungdungtrotruyen\\ui\\usercontrol\\mebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA907B0B-A379-4F6B-AFF8-8B2686353DEE}|UI\\UI.csproj|solutionrelative:ui\\usercontrol\\mebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatALLRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\ChatALLRoom.cs",
+              "RelativeDocumentMoniker": "UI\\Form\\ChatALLRoom.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\ChatALLRoom.cs [Design]",
+              "RelativeToolTip": "UI\\Form\\ChatALLRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:35:23.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateZoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\CreateZoom.cs",
+              "RelativeDocumentMoniker": "UI\\Form\\CreateZoom.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\CreateZoom.cs [Design]",
+              "RelativeToolTip": "UI\\Form\\CreateZoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:35:21.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\ServerTCP\\Program.cs",
+              "RelativeDocumentMoniker": "ServerTCP\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\ServerTCP\\Program.cs",
+              "RelativeToolTip": "ServerTCP\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:54:23.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientTCP.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\Client\\ClientTCP.cs",
+              "RelativeDocumentMoniker": "Client\\ClientTCP.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\Client\\ClientTCP.cs",
+              "RelativeToolTip": "Client\\ClientTCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:49:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeBubble.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\UserControl\\MeBubble.cs",
+              "RelativeDocumentMoniker": "UI\\UserControl\\MeBubble.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\UserControl\\MeBubble.cs",
+              "RelativeToolTip": "UI\\UserControl\\MeBubble.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:23:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeBubble.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\UserControl\\MeBubble.cs",
+              "RelativeDocumentMoniker": "UI\\UserControl\\MeBubble.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\UserControl\\MeBubble.cs [Design]",
+              "RelativeToolTip": "UI\\UserControl\\MeBubble.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:13:52.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HubChat.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\HubChat.cs",
+              "RelativeDocumentMoniker": "UI\\Form\\HubChat.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\HubChat.cs",
+              "RelativeToolTip": "UI\\Form\\HubChat.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:52:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HubChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\HubChat.cs",
+              "RelativeDocumentMoniker": "UI\\Form\\HubChat.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\UngDungTroTruyen\\UI\\Form\\HubChat.cs [Design]",
+              "RelativeToolTip": "UI\\Form\\HubChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:36:03.069Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 909,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
