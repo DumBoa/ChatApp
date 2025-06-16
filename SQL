@@ -1,0 +1,49 @@
+CREATE DATABASE CHAT;
+USE CHAT;
+
+CREATE TABLE Users (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    Username VARCHAR(50) UNIQUE,
+    Password VARCHAR(100),
+    Email VARCHAR(100),
+    Gender VARCHAR(10),
+    BirthDate DATE,
+    Bio TEXT,
+    is_online BOOLEAN DEFAULT FALSE
+);
+
+CREATE TABLE ChatGroups (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    GroupName VARCHAR(100) UNIQUE,
+    Password VARCHAR(100) NOT NULL,
+    CreatorId INT,
+    FOREIGN KEY (CreatorId) REFERENCES Users(Id)
+);
+
+CREATE TABLE GroupMembers (
+    GroupId INT,
+    UserId INT,
+    PRIMARY KEY (GroupId, UserId),
+    FOREIGN KEY (GroupId) REFERENCES ChatGroups(Id),
+    FOREIGN KEY (UserId) REFERENCES Users(Id)
+);
+
+CREATE TABLE PrivateMessages (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    SenderId INT,
+    ReceiverId INT,
+    Message TEXT,
+    SentAt DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (SenderId) REFERENCES Users(Id),
+    FOREIGN KEY (ReceiverId) REFERENCES Users(Id)
+);
+
+CREATE TABLE GroupMessages (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    GroupId INT,
+    SenderId INT,
+    Message TEXT,
+    SentAt DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (GroupId) REFERENCES ChatGroups(Id),
+    FOREIGN KEY (SenderId) REFERENCES Users(Id)
+);
